@@ -1,0 +1,5 @@
+#Greenfoot project file
+class.Player.image=player.png
+class.Enemy.image=enemy.png
+class.Coin.image=coin.png
+world.lastInstantiated=MenuWorld
